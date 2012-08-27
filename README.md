@@ -1,5 +1,7 @@
-# Example python classifiera from *Programming Collective Intelligence*
+# Example python classifier 
 
+
+## Examplex from *Programming Collective Intelligence* book.
 
 ## Run example
 
